@@ -2,4 +2,4 @@
 Дипломна работа по тема " ПРОЕКТИРАНЕ И АНАЛИЗИРАНЕ НА ОПТИЧНА МРЕЖА ПО ТЕХНОЛОГИЯ DWDM, МЕЖДУ ПЕТ ГРАДА В ШВЕЙЦАРИЯ"
 Идеята на проекта да се изгради и анализира оптична мрежа между 5 точки в Швейцария. Всяка точка е дефиниране като град.
 Използван е Cisco Transport Planner за изграждане на мрежата.
-https://drive.google.com/drive/folders/18Z7ku7J-gNhOsCOTukclNGDdPkBXfje4?usp=sharing
+https://drive.google.com/file/d/1jx1CsLPP5QqOGhgaTygwrHyocYbhTmdV/view?usp=sharing
